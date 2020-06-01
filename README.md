@@ -1,2 +1,5 @@
 # hello-world
-Repository
+
+Hi friends!
+
+I´m new here. 
